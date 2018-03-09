@@ -1,0 +1,5 @@
+{
+    "name": "fnordo/testbundle",
+    "type": "symfony-bundle",
+    "require": {}
+}
