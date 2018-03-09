@@ -1,5 +1,7 @@
 {
     "name": "fnordo/testbundle",
     "type": "symfony-bundle",
-    "require": {}
+    "require": {
+        "symfony/framework-bundle": "^4.0"
+    }
 }
